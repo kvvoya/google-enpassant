@@ -10,6 +10,7 @@
 
 .logo
 {
+  width: 100vw;
   max-width: 500px;
   height: auto;
 }
