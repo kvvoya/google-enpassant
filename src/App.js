@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div id='logo_wrapper'>
         <img src={enPassantLogo} alt="Google EnPassant Logo" className='logo'/>
-        <h1>Wonder how did your pawn just disappear? You're in a right place!</h1>
+        <h1>Wonder how did your pawn just disappear? You're in a right place! Find out now by pressing the button below.</h1>
         <a href='https://www.google.com/search?q=en+passant'><button>Google En Passant</button></a>
       </div>
     </div>
